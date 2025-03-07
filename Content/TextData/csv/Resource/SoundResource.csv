@@ -1,0 +1,7 @@
+﻿"tid	_desc	AssetFileName	AssetType",_desc,AssetFileName,AssetType
+BGM_Lobby,,SQ-ClassRoom_BGM_Cue,SoundCue
+BGM_MiniGame,,Background-music_Cue,SoundCue
+BGM_MiniGame_Clear,,game-clear_Cue,SoundCue
+BGM_MiniGame_Failed,,game-over_Cue,SoundCue
+Effect_ChairSound,,Chair-sound_Cue,SoundCue
+FirstQuestion_Cue,,FirstQuestion_Cue,SoundCue

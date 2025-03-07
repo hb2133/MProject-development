@@ -1,0 +1,6 @@
+tid,manage_type,first_widget
+Level_Login,LoginInit,Login
+Level_Lobby,LobbyInit,Lobby
+Level_ClassRoom,PlayInit,PlayHud
+Level_Study_Room,PlayInit,PlayHud
+Level_Counseling_Room,PlayInit,PlayHud

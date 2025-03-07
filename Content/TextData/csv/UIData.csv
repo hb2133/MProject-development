@@ -1,0 +1,8 @@
+tid,_desc,UIBPName,BackBtnActionType
+Viewport,,P_ViewPort_BP,OnClose
+Main,,P_Main_BP,OnClose
+Lobby,,P_Lobby_BP,OnClose
+InApp,,P_InApp_BP,OnClose
+GameRunning,,P_GameRunning_BP,OnClose
+GameDigging,,P_GameDigging_BP,OnClose
+Customize,,P_Customize_BP,OnClose

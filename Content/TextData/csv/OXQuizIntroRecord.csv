@@ -1,0 +1,8 @@
+﻿tid,Desc,Sound,Title,Sprite
+0,,OXQuiz_Intro__Cue,,
+1,"1. O는 '참', X는 '거짓'
+2. 문제당 5초 생각 시간
+3. 정답 후 간단한 설명",OX-Quiz-RFID2_Cue,규칙!,SPR_WaterCharacter_Image
+2,"오늘 배운 내용을 바탕으로
+친구들이 실천할 수 있는
+작은 변화는 무엇일까?",OX-Quiz-End_Cue,마무리!,SPR_CloudCharacter_Image

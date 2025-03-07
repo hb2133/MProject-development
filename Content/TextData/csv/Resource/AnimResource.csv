@@ -1,0 +1,7 @@
+tid,_desc,AssetFileName,AssetType,EnableStop,EnablePlayInJump
+AM_Jump,,AM_Jump,AnimMontage,False,True
+AM_Standing_Idle,,AM_Standing_Idle,AnimMontage,True,False
+AM_Standing_Clapping,,AM_Standing_Clapping,AnimMontage,True,False
+AM_Chicken_Dance,,AM_Chicken_Dance,AnimMontage,True,False
+AM_Idle,,AM_Idle,AnimMontage,True,False
+AM_Sitting,,AM_Sitting,AnimMontage,True,False

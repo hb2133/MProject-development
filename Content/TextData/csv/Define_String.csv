@@ -1,0 +1,13 @@
+﻿tid,type,value,_desc
+ui_ok,string,확인,
+ui_cancel,string,취소,
+ui_exit,string,나가기,
+ui_error,string,오류,
+ui_notice,string,알림,
+ui_correct,string,정답입니다!,
+ui_failed,string,오답입니다!,
+ui_quiztitle,string,정답은!!!!,
+ui_quizend,string,오늘 배운 내용을 바탕으로 여러분이 실천할 수 있는 작은 변화는 무엇일까요?,
+firebase_url,string,https://bucheon-climate-default-rtdb.asia-southeast1.firebasedatabase.app/,
+firebase_datalist,string,"VR,ChatBot,OXQuiz,PainEarth,Plant,CarbonGauge,CleanNature,HealthEarth",
+firebase_link,string,1030687858064-ek2dftoi3pdivkcccsd38d0o8rqd51ph.apps.googleusercontent.com,

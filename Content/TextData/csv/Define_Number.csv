@@ -1,0 +1,44 @@
+﻿tid,type,value,_desc
+GV_QUIZINFORMATION_TIMER,number,3,퀴즈 정답 설명 시간
+GV_QUIZ_TIMER,number,5, 퀴즈 제한시간
+GV_SCORE_MAX,number,20,최대 점수
+GV_ANIMAL_INIT,number,5,동물 나오는 조건
+GV_SPAWN_TIMER,number,2,모션 월 생성 시간
+GV_SPAWNLOCATION_Z,number,100,모션 월 스폰 위치 Z
+GV_SPAWNLOCATION_X,number,100,모션 월 스폰 위치 X
+GV_BASKETY_MAX,number,100, 바구니 최대 y값
+GV_SPAWNLOCATION_Y,number,100,모션 월 스폰 위치 Y
+GV_FALLING_MAXZ,number,20,떨어지는 속도
+GV_FALLING_MINZ,number,10,떨어지는 속도
+GV_FALLING_ZSIN,number,0.2,위아래로 흔들리는 정도
+GV_FALLING_MAXYSIN,number,20,좌우로 움직이는 정도
+GV_FALLING_DESTORY,number,-310,쓰레기 떨어지다가 삭제할 Z값
+GV_FALLING_MINYSIN,number,10,좌우로 움직이는 정도
+GV_RECYCLELOCATION_Y,number,300,재활용 통 스폰 위치 Y
+GV_FOODLOCATION_Y,number,150,음식 스폰 위치 Y
+GV_TEMP_MAX,number,32,온도 최대 수치
+GV_TEMP_INIT,number,32,초기 온도 수치
+GV_SCAN_MOVETIME_MIN,number,3,이동하는 최소 시간
+GV_SCAN_MOVETIME_MAX,number,5,이동하는 최대 시간
+GV_SCAN_ROTATETIME,number,1,회전하는 시간
+GV_SCAN_IDLETIME_MIN,number,3,대기상태 최소 시간
+GV_SCAN_IDLETIME_MAX,number,5,대기상태 최대 시간
+GV_SCAN_SPEED,number,200,이동속도
+GV_SCAN_LIFETIME,number,10,생명 시간
+GV_SCAN_LIFEACTOR,number,7,시간지나도 남아있을 객체 개수
+GV_BUG_TIMERSUB,number,0.5,식물 수 마다 벌레 나오는 속도 줄어드는양
+GV_BUG_TIMER,number,3.5,벌레 나오는 속도
+GV_SEED_TIMER,number,4,식물 버튼 나오는 속도
+GV_TRASHKIND_MAX,number,2,쓰레기종류갯수
+GV_TREEPLUS_SCALE,number,0.2,물 줄때마다 자라나는크기
+GV_TREEFIRST_SCALE,number,0.5,묘목심으면 처음크기
+GV_SCORE_END,number,5,식물심기 끝나는 점수
+GV_SEEDSPAWN_NUMBER,number,5,식물심기 새랑 꽃 나오는 장면 횟수
+GV_ROTATION_FORCE,number,5,"새,벌,나비돌아가는속도"
+GV_CLEANNATURE_STARTTIME,number,10,깨끗한 자연 만들기 시작 시간
+GV_BUGCLICK_MAX,number,1, 버그 아이콘 클릭 횟수
+GV_BUGTIMER_MAX,number,7,버그 아이콘 제한 시간
+GV_BUGTIMER_SUB,number,1.5,단계마다 줄어드는 시간
+GV_BUGTIMER_ENDMAX,number,10,다 자란 식물의 버그 아이콘 제한 시간
+GV_BUGSPAWNTIMER_ENDMAX,number,10,다 자란 식물의 버그 생성시간
+GV_CUSTOMIZE_COLUMN_MAX,number,4,커스터마이징 아이템 리스트 가로 길이 제한

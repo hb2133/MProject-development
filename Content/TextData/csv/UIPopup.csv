@@ -1,0 +1,7 @@
+﻿tid,_desc,MsgType,ShowButtonType,OKLocal,CancelLocal,TitleLocal,MsgDesc,IconName
+,ui 팝업 tid,,일반 : MsgPopup,,,,,
+,,,,,,,,
+Popup_Quiz_Correct,,MsgPopup,Ok,ui_ok,ui_cancel,ui_quiztitle,ui_lobby_exit_desc,O_Sprite
+Popup_Quiz_Failed,,MsgPopup,Ok,ui_ok,ui_cancel,ui_quiztitle,ui_lobby_exit_desc,X_Sprite
+Customize_Preview_Slot,,MsgPopup,OkCancel,ui_ok,ui_cancel,ui_customize_preview_slot,,
+Customize_Item_Slot,,MsgPopup,OkCancel,ui_ok,ui_cancel,ui_customize_item_slot,,

@@ -1,0 +1,16 @@
+﻿tid,Title,Desc,Correct,Inspector,Sound,Information,Image,InformationSound,PrevSound
+0,퀴즈테스트,"나무는 이산화탄소를 흡수하여
+ 산소를 만들어낸다.",TRUE,Check,Question1_Cue,정답설명란,SPR_O_Image,QuestionAnswer1_Cue,First-Question_Cue
+1,퀴즈테스트,"전기를 많이 사용하는 전자제품은
+ 탄소 배출을 줄이는 데 도움을 준다.",FALSE,Check,Question2_Cue,정답설명란,SPR_X_Image,QuestionAnswer2_Cue,Next-Question_Cue
+2,퀴즈테스트,"플라스틱을 재활용하면
+ 탄소 배출을 줄일 수 있다.",TRUE,Check,Question3_Cue,정답설명란,SPR_O_Image,QuestionAnswer3_Cue,Next-Question_Cue
+3,퀴즈테스트,모든 음식은 탄소 발자국이 같다.,FALSE,Check,Question4_Cue,정답설명란,SPR_X_Image,QuestionAnswer4_Cue,Next-Question_Cue
+4,퀴즈테스트,"태양열 발전은 탄소 배출을
+ 줄이는 데 도움이 된다.",TRUE,Check,Question5_Cue,정답설명란,SPR_O_Image,QuestionAnswer5_Cue,Next-Question_Cue
+5,퀴즈테스트,"일회용 컵을 사용하면
+ 탄소 배출이 줄어든다.",FALSE,Check,Question6_Cue,정답설명란,SPR_X_Image,QuestionAnswer6_Cue,Next-Question_Cue
+6,퀴즈테스트,"에너지를 절약하는 것은
+ 탄소 배출을 줄이는 방법이다.",TRUE,Check,Question7_Cue,정답설명란,SPR_O_Image,QuestionAnswer7_Cue,Next-Question_Cue
+7,퀴즈테스트,"식물은 지구에서 이산화탄소를
+ 줄이는 데 아무런 도움을 주지 않는다.",FALSE,Check,Question8_Cue,정답설명란,SPR_X_Image,QuestionAnswer8_Cue,Last-Question_Cue

@@ -1,0 +1,5 @@
+﻿tid,Title,Type,Answer,Selected,Dialog,Category,ObjectName,Time,Sound,CameraRotation_Pitch,CameraRotation_Yaw,CameraRotation_Roll,CameraLocation_X,CameraLocation_Y,CameraLocation_Z,DescriptionTime,TurnOnDuration,FeverTime,FeverRate,Score
+Dialog_1,메인화면,MainView,FALSE,FALSE,,,,,,10,0,0,3500,0,-125,0,,,,
+Dialog_2,주방,kitchen,"TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE",FALSE,,식품,"Apple,Banana,WaterMelon,Broccoli,Carrot,Lemon,SalamiCut,Burger,SliceStrawBerryCake,FbxFries,PizzaSalami,Meat",30,,-43,-90,0,0,0,1250,3,,,,
+Dialog_3,거실,LivingRoom,,FALSE,,식품,,60,,-18,64,0,-1287,-510,-70,3,4,"40,20,10","3,2,1",25
+Dialog_4,결과화면,ResultView,FALSE,FALSE,,,,,,,,,,,,,,,,
