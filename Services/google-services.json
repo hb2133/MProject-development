@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1030687858064",
+    "firebase_url": "https://mproject-e6a35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mproject-e6a35",
+    "storage_bucket": "mproject-e6a35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030687858064:android:82d90a698b7e38aad4e715",
+        "android_client_info": {
+          "package_name": "com.codestory.MProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030687858064-09furi5t0ng820c8b5mlsgg6ieqm8p7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codestory.MProject",
+            "certificate_hash": "689290580eb2772a93f13c18c100588ae3e1d099"
+          }
+        },
+        {
+          "client_id": "1030687858064-2b6um9mqhp207b3s0ktg3i9g8v6k2eev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codestory.MProject",
+            "certificate_hash": "a8687cd7a84a660d9a872f2ced6c1fd0a7fb47f6"
+          }
+        },
+        {
+          "client_id": "1030687858064-ek2dftoi3pdivkcccsd38d0o8rqd51ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpUcxu5ckEBnQfOLohMpqAH8pQSzd3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030687858064-ek2dftoi3pdivkcccsd38d0o8rqd51ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
